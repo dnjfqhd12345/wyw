@@ -194,3 +194,5 @@ CORS_ORIGIN_WHITELIST = (
     'http://localhost:8080',
 
 )
+
+STATIC_ROOT = BASE_DIR / 'static/'
